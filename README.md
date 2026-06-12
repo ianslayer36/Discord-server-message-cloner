@@ -8,11 +8,10 @@ Perfect for synchronizing announcements, sharing updates across communities, cre
 
 * 🔄 Real-time message cloning
 * 📝 Supports regular text messages
-* 📎 Supports file attachments
+* 📎 Supports file attachments (beta)
 * 🎨 Supports Discord embeds
 * ⚡ Fast and lightweight
 * 🔒 Permission validation and error handling
-* 🌐 Cross-server channel synchronization
 
 ## 📋 Requirements
 
